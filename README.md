@@ -1,4 +1,4 @@
-Vibration-controller device (8-bit mcu based)
+### Vibration-controller device (8-bit mcu based)
 
 - lis-331DL SPI accelerometer mc beeng used
 - clock and events ,connected to the time and vibrations can be bound
