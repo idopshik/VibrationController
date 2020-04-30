@@ -1,0 +1,287 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+Acceleration_to_LED	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Acceleration_to_LED (signed char acceleration_output)$/;"	f	language:C++
+Acceleration_to_LED	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Acceleration_to_LED (signed char acceleration_output);$/;"	p	language:C++	file:
+accelerometr_resolution_FS_0	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	44;"	d	language:C++	file:
+accelerometr_resolution_FS_1	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	43;"	d	language:C++	file:
+adcInit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ADC.h	/^void adcInit(void)$/;"	f	language:C++
+ADC_H_	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ADC.h	9;"	d	language:C++
+AlarmThreshold_changer	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void AlarmThreshold_changer (uint8_t side)$/;"	f	language:C++
+Allowed_number_of_attempts	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	55;"	d	language:C++	file:
+BAUD	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	41;"	d	language:C++	file:
+BeepDuration	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^volatile unsigned int BeepDuration;$/;"	v	language:C++
+BeeperFlag	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char BeeperFlag;$/;"	v	language:C++
+BeeperPatternCounter	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char BeeperPatternCounter;$/;"	v	language:C++
+BeeperPattern_pointer	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char * BeeperPattern_pointer; \/\/ Адресс массива$/;"	v	language:C++
+Beeper_Activator	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Beeper_Activator(const uint8_t *pattern)$/;"	f	language:C++
+Button1_Pressed	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	13;"	d	language:C++
+Button1_Released	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	14;"	d	language:C++
+Button2_Pressed	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	16;"	d	language:C++
+Button2_Released	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	17;"	d	language:C++
+ButtonCheck	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.c	/^uint8_t ButtonCheck (void)$/;"	f	language:C++
+ButtonCheck	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	/^unsigned char ButtonCheck (void);$/;"	p	language:C++
+ButtonLongReady_0	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	68;"	d	language:C++
+ButtonLongReady_1	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	69;"	d	language:C++
+ButtonLongReady_Double	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	70;"	d	language:C++
+ButtonPressed_0_LONG_MASK	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	59;"	d	language:C++
+ButtonPressed_0_MASK	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	57;"	d	language:C++
+ButtonPressed_1_LONG_MASK	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	60;"	d	language:C++
+ButtonPressed_1_MASK	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	58;"	d	language:C++
+ButtonPressed_SHORT_Double_MASK	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	61;"	d	language:C++
+ButtonRepeatPrevention_0	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	72;"	d	language:C++
+ButtonRepeatPrevention_1	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	73;"	d	language:C++
+ButtonRepeatPrevention_Double	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	74;"	d	language:C++
+ButtonTimerOverFlow	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	76;"	d	language:C++
+ButtonTimerSet_0	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	64;"	d	language:C++
+ButtonTimerSet_1	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	65;"	d	language:C++
+Button_1	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	53;"	d	language:C++
+Button_2	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	54;"	d	language:C++
+BUTTON_INPUT_H_	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	10;"	d	language:C++
+Button_state	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	/^volatile unsigned char Button_state;$/;"	v	language:C++
+Button_Timer_Counter	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	/^volatile unsigned int Button_Timer_Counter;$/;"	v	language:C++
+Button_Timer_Flag	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	/^volatile unsigned char Button_Timer_Flag;$/;"	v	language:C++
+Buzzer_OFF	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/HW_definitions.h	41;"	d	language:C++
+Buzzer_ON	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/HW_definitions.h	40;"	d	language:C++
+Change_Mode_of_Operation	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Change_Mode_of_Operation(uint8_t NewMode)$/;"	f	language:C++
+Change_Mode_of_Operation	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Change_Mode_of_Operation(uint8_t NewMode);$/;"	p	language:C++	file:
+Check_Children_Time	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Check_Children_Time(void)$/;"	f	language:C++
+ChildTime	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	52;"	d	language:C++	file:
+Chosen_axis	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	50;"	d	language:C++	file:
+CS_PORT	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	15;"	d	language:C++
+CS_unaffected_bit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	16;"	d	language:C++
+current_Max_acceleration	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^uint8_t current_Max_acceleration=4;  \/\/ кратно 4$/;"	v	language:C++
+Data_Out	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/LED_shift.h	/^void Data_Out (unsigned char d);$/;"	p	language:C++
+DDRButton	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	50;"	d	language:C++
+DDR_SPI	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.c	13;"	d	language:C++	file:
+DD_MISO	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.c	21;"	d	language:C++	file:
+DD_MOSI	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.c	22;"	d	language:C++	file:
+DD_SCK	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.c	24;"	d	language:C++	file:
+DD_SS	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.c	23;"	d	language:C++	file:
+Deal_with_Beeper	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Deal_with_Beeper(void)$/;"	f	language:C++
+DEBOUNCE_TIME	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	42;"	d	language:C++
+Digit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^volatile unsigned char Digit = 0;$/;"	v	language:C++
+DIG_digit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^uint16_t DIG_digit(uint16_t dig, uint16_t sub,uint8_t DIGIT) {$/;"	f	language:C++
+DIG_num	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void DIG_num(int16_t num) {$/;"	f	language:C++
+do_1wire_or_nobody_home	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^unsigned char do_1wire_or_nobody_home = 1;$/;"	v	language:C++
+DS	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/LED_shift.h	13;"	d	language:C++
+DS1307_ADDR	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.h	16;"	d	language:C++
+ds1307_bcd2dec	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.c	/^static uint8_t ds1307_bcd2dec(uint8_t val) {$/;"	f	language:C++	file:
+ds1307_date2days	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.c	/^static uint16_t ds1307_date2days(uint8_t y, uint8_t m, uint8_t d) {$/;"	f	language:C++	file:
+ds1307_dec2bcd	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.c	/^uint8_t ds1307_dec2bcd(uint8_t val) {$/;"	f	language:C++
+ds1307_getdate	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.c	/^void ds1307_getdate(uint8_t *year, uint8_t *month, uint8_t *day, uint8_t *hour, uint8_t *minute, uint8_t *second) {$/;"	f	language:C++
+ds1307_getdate	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.h	/^extern void ds1307_getdate(uint8_t *year, uint8_t *month, uint8_t *day, uint8_t *hour, uint8_t *minute, uint8_t *second);$/;"	p	language:C++
+ds1307_getdayofweek	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.c	/^uint8_t ds1307_getdayofweek(uint8_t y, uint8_t m, uint8_t d) {$/;"	f	language:C++
+DS1307_H	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.h	13;"	d	language:C++
+DS1307_I2CFLEURYPATH	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.h	19;"	d	language:C++
+DS1307_I2CINIT	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.h	20;"	d	language:C++
+ds1307_init	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.c	/^void ds1307_init() {$/;"	f	language:C++
+ds1307_init	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.h	/^extern void ds1307_init();$/;"	p	language:C++
+ds1307_setdate	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.c	/^uint8_t ds1307_setdate(uint8_t year, uint8_t month, uint8_t day, uint8_t hour, uint8_t minute, uint8_t second) {$/;"	f	language:C++
+ds1307_setdate	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.h	/^extern uint8_t ds1307_setdate(uint8_t year, uint8_t month, uint8_t day, uint8_t hour, uint8_t minute, uint8_t second);$/;"	p	language:C++
+ds1307_SPECIAL_setdate	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.c	/^uint8_t ds1307_SPECIAL_setdate(uint8_t hour, uint8_t minute){$/;"	f	language:C++
+ds1307_SPECIAL_setdate	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.h	/^extern uint8_t ds1307_SPECIAL_setdate(uint8_t hour, uint8_t minute);$/;"	p	language:C++
+EEMEM	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char EE_AlarmThreshold  EEMEM = 0x3E;$/;"	v	language:C++
+EEMEM	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char EE_Mode_of_operation  EEMEM = ModeOFF;$/;"	v	language:C++
+EEMEM	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char EE_MorningTime  EEMEM = 7;$/;"	v	language:C++
+f	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void (*f)(void) ;   \/\/ f - указатель$/;"	v	language:C++
+finite_state_machine	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void finite_state_machine(void)$/;"	f	language:C++
+FlagMode	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char FlagMode = ModeON;$/;"	v	language:C++
+F_CPU	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.c	13;"	d	language:C++	file:
+F_CPU	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	8;"	d	language:C++	file:
+F_CPU	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	10;"	d	language:C++	file:
+f_integrator	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.c	/^char f_integrator (unsigned char input, unsigned char button_num)$/;"	f	language:C++
+f_integrator	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	/^char f_integrator (unsigned char input, unsigned char button_num);$/;"	p	language:C++
+Get_time	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Get_time (void)$/;"	f	language:C++
+Get_time	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Get_time (void);$/;"	p	language:C++	file:
+G_counter	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^volatile uint16_t G_counter =0;$/;"	v	language:C++
+G_counter_char	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^volatile uint8_t G_counter_char =0;$/;"	v	language:C++
+G_Flag_acceleration	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^uint8_t G_Flag_acceleration;$/;"	v	language:C++
+G_time1	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^volatile unsigned int G_time1 = 0;$/;"	v	language:C++
+Hardware_init	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/HW_definitions.h	/^void Hardware_init (void)$/;"	f	language:C++
+Hardware_set_for_shift	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/LED_shift.c	/^	void Hardware_set_for_shift (void)$/;"	f	language:C++
+Hardware_set_for_shift	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/LED_shift.h	/^void Hardware_set_for_shift (void);$/;"	p	language:C++
+HW_DEFINITIONS_H_	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/HW_definitions.h	9;"	d	language:C++
+integrator	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.c	/^unsigned int integrator[NumberOfButtons];$/;"	v	language:C++
+ISR	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^ISR(TIMER0_OVF_vect)		\/\/ 2ms  \/\/ Обслуживаем индикацию$/;"	f	language:C++
+ISR	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^ISR(TIMER2_OVF_vect)					\/\/1ms \/\/ Логика датчика и задержек.$/;"	f	language:C++
+Last_GlobalVar	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^volatile unsigned char Last_GlobalVar = 0;$/;"	v	language:C++
+Led_RED_OFF	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/HW_definitions.h	39;"	d	language:C++
+Led_RED_ON	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/HW_definitions.h	38;"	d	language:C++
+LED_SHIFT_H_	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/LED_shift.h	9;"	d	language:C++
+LED_string	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^volatile unsigned char LED_string[4];$/;"	v	language:C++
+Led_Yellow_OFF	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/HW_definitions.h	37;"	d	language:C++
+Led_Yellow_ON	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/HW_definitions.h	36;"	d	language:C++
+LIS331_int2_SET	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void LIS331_int2_SET (void)  \/\/ Изменил настроку. Теперь на меге подтяг. А акселерометр - Open Drain. Надо проверить.$/;"	f	language:C++
+LIS331_SetUP	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^uint8_t LIS331_SetUP (void)$/;"	f	language:C++
+LIS_read__who_i_am	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.c	/^	uint8_t LIS_read__who_i_am (void)$/;"	f	language:C++
+LIS_read__who_i_am	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	/^uint8_t LIS_read__who_i_am (void);$/;"	p	language:C++
+LIS_read__who_i_am_1	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	/^void LIS_read__who_i_am_1 (uint8_t * dataout);$/;"	p	language:C++
+LIS_read__who_i_am_2	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.c	/^	void LIS_read__who_i_am_2 (uint8_t * dataout)$/;"	f	language:C++
+LIS_read__who_i_am_2	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	/^void LIS_read__who_i_am_2(uint8_t * dataout);$/;"	p	language:C++
+LIS_read__who_i_am_3	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.c	/^		void LIS_read__who_i_am_3 (uint8_t * dataout)$/;"	f	language:C++
+LIS_read__who_i_am_3	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	/^void LIS_read__who_i_am_3 (uint8_t * dataout);$/;"	p	language:C++
+main	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^ int main (void)$/;"	f	language:C++
+MAXIMUM	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	44;"	d	language:C++
+Maximum_acceleration	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^volatile uint8_t Maximum_acceleration;$/;"	v	language:C++
+MemsCTRL_REG1	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	37;"	d	language:C++
+MemsCTRL_REG2	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	38;"	d	language:C++
+MemsCTRL_REG3	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	39;"	d	language:C++
+MemsHP_FILTER_RESET	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	40;"	d	language:C++
+MemsOUT_X	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	34;"	d	language:C++
+MemsOUT_Y	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	35;"	d	language:C++
+MemsOUT_Z	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	36;"	d	language:C++
+MemsSTATUS_REG	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	41;"	d	language:C++
+MemsWHO_AM_I	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	33;"	d	language:C++
+Minimum_acceleration	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^volatile uint8_t Minimum_acceleration;	\/\/Для логики бездействия (если разницы нет- машина простаивает).$/;"	v	language:C++
+Min_difference_by_washing	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	57;"	d	language:C++	file:
+ModeHWerror	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	39;"	d	language:C++	file:
+ModeMorningTimeEdit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	38;"	d	language:C++	file:
+ModeOFF	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	32;"	d	language:C++	file:
+ModeON	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	33;"	d	language:C++	file:
+ModeThresholdSET	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	34;"	d	language:C++	file:
+ModeThresholdSET_on_going	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	35;"	d	language:C++	file:
+ModeTimeEdit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	37;"	d	language:C++	file:
+ModeTimeSuspend	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	36;"	d	language:C++	file:
+Mode_of_operation	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^volatile unsigned char Mode_of_operation;$/;"	v	language:C++
+MorningTime	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^uint8_t MorningTime; $/;"	v	language:C++
+MorningTimeSet_enabler	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void MorningTimeSet_enabler (void)$/;"	f	language:C++
+MOTION_SENSOR_H_	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	13;"	d	language:C++
+Nested_counter	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^volatile unsigned char Nested_counter =0;$/;"	v	language:C++
+NumberOfAttempts	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char NumberOfAttempts;$/;"	v	language:C++
+NumberOfButtons	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	45;"	d	language:C++
+NumCodes	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/LED_shift.c	/^const unsigned int PROGMEM NumCodes[] =$/;"	v	language:C++
+onewire_crc_update	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^uint8_t onewire_crc_update(uint8_t crc, uint8_t b) $/;"	f	language:C++
+onewire_crc_update	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^uint8_t onewire_crc_update(uint8_t crc, uint8_t b);$/;"	p	language:C++
+ONEWIRE_DDR	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	26;"	d	language:C++	file:
+onewire_enum	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^uint8_t onewire_enum[8]; \/\/ найденный восьмибайтовый адрес $/;"	v	language:C++
+onewire_enum_fork_bit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^uint8_t onewire_enum_fork_bit; \/\/ последний нулевой бит, где была неоднозначность (нумеруя с единицы)$/;"	v	language:C++
+onewire_enum_init	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^void onewire_enum_init() {$/;"	f	language:C++
+onewire_enum_init	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^void onewire_enum_init();$/;"	p	language:C++
+onewire_enum_next	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^uint8_t * onewire_enum_next() {$/;"	f	language:C++
+onewire_enum_next	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^uint8_t * onewire_enum_next();$/;"	p	language:C++
+onewire_high	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^inline void onewire_high() {$/;"	f	language:C++
+onewire_level	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^inline uint8_t onewire_level() {$/;"	f	language:C++
+onewire_level	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^uint8_t onewire_level();$/;"	p	language:C++
+onewire_low	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^inline void onewire_low() {$/;"	f	language:C++
+onewire_match	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^uint8_t onewire_match(uint8_t * data) {$/;"	f	language:C++
+onewire_match	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^uint8_t onewire_match(uint8_t * data);$/;"	p	language:C++
+onewire_match_last	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^uint8_t onewire_match_last() {$/;"	f	language:C++
+ONEWIRE_PIN	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	27;"	d	language:C++	file:
+ONEWIRE_PIN_NUM	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	28;"	d	language:C++	file:
+ONEWIRE_PORT	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	25;"	d	language:C++	file:
+onewire_read	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^uint8_t onewire_read() {$/;"	f	language:C++
+onewire_read	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^uint8_t onewire_read();$/;"	p	language:C++
+onewire_read_bit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^uint8_t onewire_read_bit() {$/;"	f	language:C++
+onewire_read_bit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^uint8_t onewire_read_bit();$/;"	p	language:C++
+onewire_read_rom	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^uint8_t onewire_read_rom(uint8_t * buf) {$/;"	f	language:C++
+onewire_read_rom	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^uint8_t onewire_read_rom(uint8_t * buf);$/;"	p	language:C++
+onewire_reset	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^uint8_t onewire_reset() $/;"	f	language:C++
+onewire_reset	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^uint8_t onewire_reset();$/;"	p	language:C++
+onewire_send	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^void onewire_send(uint8_t b) {$/;"	f	language:C++
+onewire_send	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^void onewire_send(uint8_t b);$/;"	p	language:C++
+onewire_send_bit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^void onewire_send_bit(uint8_t bit) {$/;"	f	language:C++
+onewire_send_bit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^void onewire_send_bit(uint8_t bit);$/;"	p	language:C++
+onewire_skip	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^uint8_t onewire_skip() {$/;"	f	language:C++
+onewire_skip	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^uint8_t onewire_skip();$/;"	p	language:C++
+ONEWIRE_STRONG_DDR	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	68;"	d	language:C++	file:
+onewire_strong_disable	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^void onewire_strong_disable() {$/;"	f	language:C++
+onewire_strong_disable	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^void onewire_strong_disable();$/;"	p	language:C++
+onewire_strong_enable	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^void onewire_strong_enable() {$/;"	f	language:C++
+onewire_strong_enable	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^void onewire_strong_enable();$/;"	p	language:C++
+ONEWIRE_STRONG_PIN_NUM	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	70;"	d	language:C++	file:
+ONEWIRE_STRONG_PORT	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	69;"	d	language:C++	file:
+One_wire_buf	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^char One_wire_buf[10]; \/\/ Если писать не с нулевого , то писать не будет - сразу выйдет по нулю. (первый нуль - то).$/;"	v	language:C++
+ONE_WIRE_DO_IT	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^void ONE_WIRE_DO_IT(void);$/;"	p	language:C++
+ONE_WIRE_DO_IT_HERE	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void ONE_WIRE_DO_IT_HERE(void)$/;"	f	language:C++
+ONE_WIRE_DO_IT_HERE	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void ONE_WIRE_DO_IT_HERE(void);$/;"	p	language:C++	file:
+ONE_WIRE_H_	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	9;"	d	language:C++
+one_w_i	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^unsigned char one_w_i = 0;$/;"	v	language:C++
+output	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.c	/^unsigned char output[NumberOfButtons] = {1,1}; \/\/ Не знаю как по другому(Не теряя два слова при определении). Иначе при запуске регистрируется нажатие. $/;"	v	language:C++
+Overacceleration_Occured	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^volatile unsigned char Overacceleration_Occured = 0;$/;"	v	language:C++
+PinButton	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	52;"	d	language:C++
+PortButton	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	51;"	d	language:C++
+PORT_SPI	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.c	12;"	d	language:C++	file:
+PROGMEM	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/ds1307.c	/^const uint8_t ds1307_daysinmonth [] PROGMEM = { 31,28,31,30,31,30,31,31,30,31,30,31 };$/;"	v	language:C++
+PROGMEM	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char const BeepPattern[] PROGMEM = {70,0,0};$/;"	v	language:C++
+PROGMEM	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char const BeepPattern_DoubleShort[] PROGMEM ={50,20,50,20,50,20,50,20,50,20,50,20,50,20,50,20,0,0};$/;"	v	language:C++
+PROGMEM	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char const BeepPattern_DoubleShort_Wrong[] PROGMEM = {100,30,100,30,100,30,100,30,0,0};$/;"	v	language:C++
+PROGMEM	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char const BeepPattern_Meloidic[] PROGMEM = {200,30,200,254,100,20,100,1,0,0};	$/;"	v	language:C++
+PROGMEM	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char const BeepPattern_SwitchOFF[] PROGMEM = {10,10,15,20,20,10,40,40,40,40,40,100,40,100,40,150,40,150,40,200,40,250,40,250,80, 0};		$/;"	v	language:C++
+PROGMEM	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char const BeepPattern_SwitchOn[] PROGMEM = {80,250,40,250,40,200,40,150,40,150,40,100,40,100,40,40,40,40,20,20,15,20,10,0};$/;"	v	language:C++
+PutOneDigit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/LED_shift.c	/^void PutOneDigit(unsigned char Num,unsigned char Digit,unsigned char DOT)$/;"	f	language:C++
+PutOneDigit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/LED_shift.h	/^void PutOneDigit(unsigned char Num,unsigned char Digit,unsigned char DOT);$/;"	p	language:C++
+RAM_AlarmThreshold	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char RAM_AlarmThreshold;$/;"	v	language:C++
+ReadAxis	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void ReadAxis(void); \/\/ Прототип$/;"	p	language:C++	file:
+ReadedByteFromSlave	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^extern void ReadedByteFromSlave(void);$/;"	p	language:C++	file:
+RelayCut_IN	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/HW_definitions.h	42;"	d	language:C++
+RelayCut_OUT	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/HW_definitions.h	43;"	d	language:C++
+RinseCycle_NoActivity_sec	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	56;"	d	language:C++	file:
+SAMPLE_FREQUENCY	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	43;"	d	language:C++
+send_skip_rom	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^void send_skip_rom(void)$/;"	f	language:C++
+send_skip_rom	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^void send_skip_rom(void);	$/;"	p	language:C++
+SetButtonTimer	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.c	/^void SetButtonTimer(uint8_t T)$/;"	f	language:C++
+setupTimer_0	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^inline void setupTimer_0 (void)$/;"	f	language:C++
+SetupTimer_2	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^inline void SetupTimer_2 (void)$/;"	f	language:C++
+shift	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/LED_shift.c	/^void shift( unsigned int data){					\/\/ впихиваем страшим вперёд.$/;"	f	language:C++
+shift	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/LED_shift.h	/^void shift( unsigned int data);$/;"	p	language:C++
+ShiftDDR	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/LED_shift.h	11;"	d	language:C++
+ShiftPort	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/LED_shift.h	12;"	d	language:C++
+ShowAlarm	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void ShowAlarm(void)$/;"	f	language:C++
+Show_Morning_time	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Show_Morning_time (void)$/;"	f	language:C++
+Show_Morning_time	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Show_Morning_time(void);$/;"	p	language:C++	file:
+SH_CP	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/LED_shift.h	15;"	d	language:C++
+spiMEMS_ReadByte	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.c	/^uint8_t spiMEMS_ReadByte(uint8_t memAddr)$/;"	f	language:C++
+spiMEMS_ReadByte	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	/^uint8_t spiMEMS_ReadByte(uint8_t memAddr); \/\/ если не связываться с указателями.$/;"	p	language:C++
+spiTransferWord	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.c	/^uint16_t spiTransferWord(uint16_t data)$/;"	f	language:C++
+spiTransferWord	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	/^uint16_t spiTransferWord(uint16_t data);$/;"	p	language:C++
+SPI_2XCLOCK_MASK	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	28;"	d	language:C++
+SPI_accelerometr_Read	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.c	/^void SPI_accelerometr_Read(uint8_t Addr, uint8_t *reg)\/\/ Тело этой проще скопировать в основную прогу. Без всяких указателей сразу присвоить переменной возвращённый байт.$/;"	f	language:C++
+SPI_accelerometr_Read	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	/^extern void SPI_accelerometr_Read(uint8_t Addr, uint8_t *reg);$/;"	p	language:C++
+SPI_accelerometr_Read_char	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.c	/^void SPI_accelerometr_Read_char(uint8_t Addr, signed char *reg) $/;"	f	language:C++
+SPI_accelerometr_Read_char	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	/^extern void SPI_accelerometr_Read_char(uint8_t Addr, signed char *reg);$/;"	p	language:C++
+SPI_accelerometr_Write	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.c	/^void SPI_accelerometr_Write(uint8_t Addr, uint8_t data)$/;"	f	language:C++
+SPI_accelerometr_Write	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	/^extern void SPI_accelerometr_Write(uint8_t Addr, uint8_t data);$/;"	p	language:C++
+SPI_CLOCK_DIV128	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	15;"	d	language:C++
+SPI_CLOCK_DIV16	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	13;"	d	language:C++
+SPI_CLOCK_DIV2	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	16;"	d	language:C++
+SPI_CLOCK_DIV32	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	18;"	d	language:C++
+SPI_CLOCK_DIV4	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	12;"	d	language:C++
+SPI_CLOCK_DIV64	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	14;"	d	language:C++
+SPI_CLOCK_DIV8	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	17;"	d	language:C++
+SPI_CLOCK_MASK	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	27;"	d	language:C++
+spi_extended_init	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.c	/^void spi_extended_init(uint8_t mode,uint8_t clock_devider)$/;"	f	language:C++
+spi_extended_init	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	/^void spi_extended_init(uint8_t mode,uint8_t clock_devider);$/;"	p	language:C++
+spi_fast_shift	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.c	/^uint8_t spi_fast_shift (uint8_t data)$/;"	f	language:C++
+spi_fast_shift	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	/^extern uint8_t spi_fast_shift (uint8_t data);$/;"	p	language:C++
+spi_init	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.c	/^void spi_init()   \/\/ Только АтМега16$/;"	f	language:C++
+spi_init	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	/^extern void spi_init();$/;"	p	language:C++
+SPI_IN_buf	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^unsigned char SPI_IN_buf[4];$/;"	v	language:C++
+SPI_MODE0	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	21;"	d	language:C++
+SPI_MODE1	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	22;"	d	language:C++
+SPI_MODE2	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	23;"	d	language:C++
+SPI_MODE3	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	24;"	d	language:C++
+SPI_MODE_MASK	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	26;"	d	language:C++
+spi_transfer_sync	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.c	/^void spi_transfer_sync (uint8_t * dataout, uint8_t * datain, uint8_t len)$/;"	f	language:C++
+spi_transfer_sync	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	/^extern void spi_transfer_sync (uint8_t * dataout, uint8_t * datain, uint8_t len);$/;"	p	language:C++
+spi_transmit_sync	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.c	/^void spi_transmit_sync (uint8_t * dataout, uint8_t len)$/;"	f	language:C++
+spi_transmit_sync	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	/^extern void spi_transmit_sync (uint8_t * dataout, uint8_t len);$/;"	p	language:C++
+ST_CP	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/LED_shift.h	14;"	d	language:C++
+SwitchOFFRoutine	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void SwitchOFFRoutine(void)$/;"	f	language:C++
+SwitchOnRoutine	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void SwitchOnRoutine(void)$/;"	f	language:C++
+Threshold_incrementer	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Threshold_incrementer (void)$/;"	f	language:C++
+Threshold_reducer	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Threshold_reducer (void)$/;"	f	language:C++
+Threshold_reducer	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Threshold_reducer (void);$/;"	p	language:C++	file:
+TimeSuspendSkipEvening	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^uint8_t TimeSuspendSkipEvening = 0x00;		\/\/ Без eeprom - не страшно если машина включится вечером при перевлючении света.$/;"	v	language:C++
+Time_set_enabler	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^void Time_set_enabler (void)$/;"	f	language:C++
+TWI_addr	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Motion_Sensor.h	18;"	d	language:C++
+uart_digit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^uint16_t uart_digit(uint16_t dig, uint16_t sub) {$/;"	f	language:C++
+uart_digit	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^uint16_t uart_digit(uint16_t dig, uint16_t sub);$/;"	p	language:C++
+uart_new_line_Macro	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/HW_definitions.h	34;"	d	language:C++
+uart_num	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.c	/^void uart_num(int16_t num) {$/;"	f	language:C++
+uart_num	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/One_wire.h	/^void uart_num(int16_t num);$/;"	p	language:C++
+WashTimeWindow	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	/^volatile unsigned int WashTimeWindow = 0;$/;"	v	language:C++
+Within_ISR_button_service	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.c	/^void Within_ISR_button_service (void)$/;"	f	language:C++
+Within_ISR_button_service	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Button_input.h	/^void Within_ISR_button_service (void);$/;"	p	language:C++
+X_axis	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	46;"	d	language:C++	file:
+Y_axis	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	47;"	d	language:C++	file:
+Z_axis	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/Farcoper.c	48;"	d	language:C++	file:
+_SPI_H_	/home/st/Dropbox/Embed_prjs_most_valuable/Farcoper/Farcoper/spi.h	7;"	d	language:C++
